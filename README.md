@@ -1,4 +1,4 @@
-# Introduction_to_Python(README version:2021/01/26)
+# Introduction_to_Python(README version:2021/01/28)
 
 >**Presenter**: Yifeng
 
@@ -16,3 +16,10 @@ First, all programming language study is a process of **learning by doing**. If 
 Then, rookie always make mistakes, which is "I thought I know". It is common that you seem understand every line of code on textbook. However, your brain just 'blackout' when you close the book.
 
 In the end, enjoy the process of **debug**. Sometimes it is very beneficial to spend a lof of time to debug.
+
+
+## How to study with me?
+
+1. Install Python and read some basic knowledge in this [page:'Python programming for the absolute beginner'].(<https://pythonguides.com/python-programming-for-the-absolute-beginner/>). Because in this repository I will not explain how to install and configurate environment. There are tons of tutorials and videos on internet. *<My environment: Win10 professional 64-bit system; x64-based processor; Python 3.87; Pycharm Community 2020.3.2>*
+
+2.
