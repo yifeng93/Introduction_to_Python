@@ -20,6 +20,6 @@ In the end, enjoy the process of **debug**. Sometimes it is very beneficial to s
 
 ## How to study with me?
 
-1. Install Python and read some basic knowledge in this [page:'Python programming for the absolute beginner'].(<https://pythonguides.com/python-programming-for-the-absolute-beginner/>). Because in this repository I will not explain how to install and configurate environment. There are tons of tutorials and videos on internet. *<My environment: Win10 professional 64-bit system; x64-based processor; Python 3.87; Pycharm Community 2020.3.2>*
+1. Install Python and read some basic knowledge in this [page:'Python programming for the absolute beginner'](<https://pythonguides.com/python-programming-for-the-absolute-beginner/>). Because in this repository I will not explain how to install and configurate environment. There are tons of tutorials and videos on internet. *<My environment: Win10 professional 64-bit system; x64-based processor; Python 3.87; Pycharm Community 2020.3.2>*
 
 2.
