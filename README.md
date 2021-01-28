@@ -22,4 +22,20 @@ In the end, enjoy the process of **debug**. Sometimes it is very beneficial to s
 
 1. Install Python and read some basic knowledge in this [page:'Python programming for the absolute beginner'](<https://pythonguides.com/python-programming-for-the-absolute-beginner/>). Because in this repository I will not explain how to install and configurate environment. There are tons of tutorials and videos on internet. *<My environment: Win10 professional 64-bit system; x64-based processor; Python 3.87; Pycharm Community 2020.3.2>*
 
-2.
+2. Study following the Table of Content. I will summarize or write a supplyment material when a study session is finished. So, if you do not understand some part of material, you may find explaination in the summary or supplyment. E.g. There is a [06. Supplyment 1~5.md](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/06.%20Supplyment%201~5.md>) in the [Basic_Knowledge folder](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Basic_Knowledge>) to explain some knowledge unclear in part_01 to part_05.
+
+3. Related exercises will be in a separe folder. Do exercises regularly.
+
+4. There are always mistakes in this repository. Do NOT hesitate to commit changes and corret them. I will be appreciate it a lot.
+
+
+## Table of Content
+
+### [Basic_Knowledge](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Basic_Knowledge>)
+
+- [01. Variables and data type](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/01.%20Variables%20and%20data%20type.md>)
+- [02. List](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/02.%20List.md>)
+- [03. dictionary](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/03.%20dictionary.md>)
+- [04. while and if](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/04.%20while%20and%20if.md>)
+- [05. function](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/05.%20function.md>)
+- [06. Supplyment 1~5](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/06.%20Supplyment%201~5.md>)
