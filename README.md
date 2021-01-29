@@ -39,3 +39,8 @@ In the end, enjoy the process of **debug**. Sometimes it is very beneficial to s
 - [04. while and if](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/04.%20while%20and%20if.md>)
 - [05. function](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/05.%20function.md>)
 - [06. Supplyment 1~5](<https://github.com/yifeng93/Introduction_to_Python/blob/main/Basic_Knowledge/06.%20Supplyment%201~5.md>)
+
+
+### [More_than_Basic_Knowledge](<https://github.com/yifeng93/Introduction_to_Python/tree/main/More_than_Basic_Knowledge>)
+
+- [01. Class](<https://github.com/yifeng93/Introduction_to_Python/blob/main/More_than_Basic_Knowledge/01.%20Class.md>)
