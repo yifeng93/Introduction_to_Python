@@ -44,3 +44,9 @@ In the end, enjoy the process of **debug**. Sometimes it is very beneficial to s
 ### [More_than_Basic_Knowledge](<https://github.com/yifeng93/Introduction_to_Python/tree/main/More_than_Basic_Knowledge>)
 
 - [01. Class](<https://github.com/yifeng93/Introduction_to_Python/blob/main/More_than_Basic_Knowledge/01.%20Class.md>)
+
+
+### [Exercises_and_Small_Projects](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects>)
+
+- [Part_1](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects/Part_1>)
+ - [temperature_anaylysis](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects/Part_1/temperature_analysis》）
