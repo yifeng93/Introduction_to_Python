@@ -49,4 +49,4 @@ In the end, enjoy the process of **debug**. Sometimes it is very beneficial to s
 ### [Exercises_and_Small_Projects](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects>)
 
 - [Part_1](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects/Part_1>)
- - [temperature_anaylysis](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects/Part_1/temperature_analysis》）
+  - [temperature_anaylysis](<https://github.com/yifeng93/Introduction_to_Python/tree/main/Exercises_and_Small_Projects/Part_1/temperature_analysis>)
